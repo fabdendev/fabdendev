@@ -1,6 +1,6 @@
 # Hey, I'm Fabio
 
-Software engineer based in Italy, working remotely. I build AI-native products for options trading and energy markets.
+Software engineer based in Italy. I like building things — AI agents, MCP servers, developer tools, and whatever catches my interest.
 
 ## What I'm building
 
