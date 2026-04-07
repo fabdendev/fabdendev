@@ -11,11 +11,6 @@ Software engineer based in Italy. I like building things — AI agents, MCP serv
 | [ferret-mcp](https://github.com/fabdendev/ferret-mcp) | Extract complete knowledge from any codebase |
 | [ghost-writer-mcp](https://github.com/fabdendev/ghost-writer-mcp) | GitHub activity to LinkedIn posts with confidentiality sanitisation |
 
-## OSS Contributions
-
-- [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit/pull/782) — EU AI Act Annex IV technical documentation exporter
-- [neo4j-labs/create-context-graph](https://github.com/neo4j-labs/create-context-graph/pull/18) — Options intelligence domain (23rd domain)
-
 ## Stack
 
 Python, Rust, FastAPI, PostgreSQL, ClickHouse, Neo4j, MCP, Pydantic, Docker
