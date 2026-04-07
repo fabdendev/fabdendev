@@ -2,10 +2,6 @@
 
 Software engineer based in Italy. I like building things — AI agents, MCP servers, developer tools, and whatever catches my interest.
 
-## What I'm building
-
-**[ZER0DTE](https://github.com/zerohour-ai/zer0dte)** — Real-time options intelligence for AI agents. 17 MCP tools for 0DTE analysis: dealer positioning (GEX/DEX/VEX), regime classification, key levels, expected moves, smart-filtered chains. One URL, zero dependencies.
-
 ## MCP Servers
 
 | Server | What it does |
