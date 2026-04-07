@@ -10,7 +10,3 @@ Software engineer based in Italy. I like building things — AI agents, MCP serv
 | [dagster-mcp](https://github.com/fabdendev/dagster-mcp) | Operate Dagster pipelines from any MCP client |
 | [ferret-mcp](https://github.com/fabdendev/ferret-mcp) | Extract complete knowledge from any codebase |
 | [ghost-writer-mcp](https://github.com/fabdendev/ghost-writer-mcp) | GitHub activity to LinkedIn posts with confidentiality sanitisation |
-
-## Stack
-
-Python, Rust, FastAPI, PostgreSQL, ClickHouse, Neo4j, MCP, Pydantic, Docker
