@@ -6,8 +6,6 @@ Software engineer based in Italy, working remotely. I build AI-native products f
 
 **[ZER0DTE](https://github.com/zerohour-ai/zer0dte)** — Real-time options intelligence for AI agents. 17 MCP tools for 0DTE analysis: dealer positioning (GEX/DEX/VEX), regime classification, key levels, expected moves, smart-filtered chains. One URL, zero dependencies.
 
-**OptimusAI** — Enterprise AI trading assistant for energy markets. FastAPI + PostgreSQL + pgvector + native function calling.
-
 ## MCP Servers
 
 | Server | What it does |
