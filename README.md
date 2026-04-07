@@ -1,6 +1,6 @@
 # Hey, I'm Fabio
 
-Software engineer based in the UK. I build AI-native products for options trading and energy markets.
+Software engineer based in Italy, working remotely. I build AI-native products for options trading and energy markets.
 
 ## What I'm building
 
